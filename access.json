@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "bearer": "2e226a9edba60d63a21db9d1609722848a958755",
+            "details": {
+                "grant_type": "refresh_token",
+                "refresh_token": "048fdb87a4eda504ed25bce9bc5c88e1efdc9629",
+                "client_id": "100022",
+                "client_secret": "hu76l0Wue78XZZrhbhuVJwmJmlAdn0Lts3ZI4Vdk3lgXkRnO"
+            }
+        },
+        {
+            "bearer": "2586927b0a4e320f67cd1156a74ce0ed7550c052",
+            "details": {
+                "grant_type": "refresh_token",
+                "refresh_token": "c4792a2e0672917d9a157da8303d9b81950bc100",
+                "client_id": "100022",
+                "client_secret": "hu76l0Wue78XZZrhbhuVJwmJmlAdn0Lts3ZI4Vdk3lgXkRnO"
+            }
+        },
+        {
+            "bearer": "41ba2fcf793f35267539e02aa7233c004b3bf148",
+            "details": {
+                "grant_type": "refresh_token",
+                "refresh_token": "f19f5eb22440ca49488a038dcc893750ee71e32f",
+                "client_id": "100022",
+                "client_secret": "hu76l0Wue78XZZrhbhuVJwmJmlAdn0Lts3ZI4Vdk3lgXkRnO"
+            }
+        },
+        {
+            "bearer": "ad1deeae2b3c38d40786e70bb1faa0572107e3cc",
+            "details": {
+                "grant_type": "refresh_token",
+                "refresh_token": "3284401e0f39b66a70469e082e7164320ab13abc",
+                "client_id": "100022",
+                "client_secret": "hu76l0Wue78XZZrhbhuVJwmJmlAdn0Lts3ZI4Vdk3lgXkRnO"
+            }
+}
